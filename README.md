@@ -112,3 +112,5 @@ MyComponent.PropTypes {
 - [Multi-Module Project with Maven](https://www.baeldung.com/maven-multi-module)
 - [oAuth 2.0 Getting Started](https://oauth.net/getting-started/)
 - [Frontend React Maven Plugin](https://github.com/eirslett/frontend-maven-plugin)
+- [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
+- [Creating API Documentation with Restdocs](https://spring.io/guides/gs/testing-restdocs/)
